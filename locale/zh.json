@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "重启 DSH",
+    "description": "在 Windows 标题栏「应用 / 编辑」旁加一个「重启」按钮，点击后重新启动当前 DeepSeek Harness（等同退出后重新打开，会中断正在运行的任务）。"
+  }
+}

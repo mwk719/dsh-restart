@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Restart DSH",
+    "description": "Adds a Restart button beside Application / Edit in the Windows titlebar that relaunches DeepSeek Harness (the same as quitting and reopening, so running tasks are interrupted)."
+  }
+}
