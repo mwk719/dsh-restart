@@ -1,5 +1,6 @@
 window.__ModuleLoader__.load({
-  id: 'dsh-restart',
+  // The loader keys this module by the package name, so a scoped package needs the scope here too.
+  id: '@mwk719/dsh-restart',
   factory(require) {
     // The application's own document language wins: it is what the surrounding menus speak. A shell
     // that has not synced `lang` yet is read from the browser's own order instead.
