@@ -1,6 +1,6 @@
 {
   "name": "@mwk719/dsh-restart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Windows 标题栏的「重启」按钮：点一下弹出确认框，确认后关闭并重新打开 DeepSeek Harness Desktop。",
   "type": "module",
   "main": "index.js",
@@ -18,9 +18,6 @@
     "cordis.patch.yml",
     "locale/*.json",
     "icon.svg",
-    "icon.png",
-    "screenshots.json",
-    "assets/",
     "README.md",
     "LICENSE"
   ],
